@@ -1,4 +1,4 @@
-/*jshint multistr:true */
+
 var text = "I've got doggies sleeping, Jacob Jacob";
 
 var myName = "Jacob";
